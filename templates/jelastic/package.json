@@ -1,0 +1,7 @@
+{
+  "name": "IceOrder.pl",
+  "scripts": {
+    "start": "pm2 start /opt/repo/ROOT/main.js --name \"webapp\""
+  },
+  "private": true
+}
